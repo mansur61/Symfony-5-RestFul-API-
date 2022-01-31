@@ -3,7 +3,7 @@
 
 * İstanilen çalışmaya göre oluşturulan Entities'ler;
 
-    Company 
+    Company, 
     Order,
     Product,
     Login işlemleri için User , şeklindedir.
@@ -11,7 +11,7 @@
 * İstenilen çalışmada Symfony 5.4 + x sürümleri ile yapılmıştır.
 * Daha geniş paket olan web paketi kurulmuştur. 
    ( symfony new --webapp my_project ) Brçok farklı şekilde de kurulabilmektedir. Hepsi ile denedim kurmayı farkını görmek için.
-    Bunu yazdım sadece.
+    
 
 * Api platfrom kullanılarak Swagger UI tasarlandı. Sonrasında Postmanda test edilebilir şeklinde Annotionlar ve Security kurulumları ve kodlaması yapıldı.
 
